@@ -119,7 +119,7 @@ You'll need to download and install TruffleSOM on the command line. Note, the
 setup won't work from within Eclipse. Eclipse, or more precisely EGit does not
 support symlinks, which are used in the TruffleSOM repository
 
-    git clone -b tutorial/2014 https://github.com/smarr/TruffleSOM.git
+    git clone https://github.com/smarr/TruffleSOM.git
     cd TruffleSOM
     ant develop
 
@@ -151,7 +151,7 @@ Prebuilt binaries: http://lafo.ssw.uni-linz.ac.at/builds
 RTruffleSOM
 -----------
 
-    git clone -b tutorial/2014 https://github.com/smarr/RTruffleSOM.git
+    git clone https://github.com/smarr/RTruffleSOM.git
     cd RTruffleSOM
  
   
